@@ -76,8 +76,7 @@ namespace Hearts.Classes
                 $"l: look at hand\n" +
                 $"h: print last trick history\n" +
                 $"c: clear screen\n" +
-                $"q: quit the game\n" +
-                $"");
+                $"q: quit the game\n");
         }
     }
 }
